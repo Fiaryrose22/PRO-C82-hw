@@ -1,1 +1,2 @@
-# PRO-C82-hw
+# spectagram-stage-2
+project solution for c82
